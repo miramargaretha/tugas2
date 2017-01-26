@@ -4,6 +4,11 @@ class HitungLuas2 {
 		return p*l;
 	}
 
+
+	public static float cariLuasSegitiga (int a, int t){
+		return (a*t)/2;
+	}
+
 	public static void main (String[] arg){
 
 	}
